@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my first html project</title>
+</head>
+<body>
+    HELLO GARGI HERE
+<img src="./C:\Users\gargi\Downloads\WhatsApp Image 2025-01-18 at 1.41.46 PM.jpeg" alt="image">
+<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquam qui consequatur totam labore rerum commodi quae tempora? Nostrum, deserunt ad quisquam incidunt dignissimos corporis explicabo. Ad sit aperiam natus cupiditate corporis porro, esse fuga neque, modi quas incidunt distinctio debitis excepturi facere inventore beatae. Officiis adipisci voluptatem tempora aliquam, veritatis provident dolor inventore ullam similique odio, harum earum tempore accusamus iure! Iusto nulla, porro adipisci voluptas natus consectetur non quasi atque doloremque vitae tenetur expedita. Deserunt quidem est itaque eligendi repellat praesentium a, iure voluptate beatae? Eos libero totam eius quos nam tempora consectetur odio veniam soluta consequuntur dignissimos, molestiae deleniti iste. Excepturi ab eligendi quisquam nulla exercitationem sequi, iusto obcaecati! Nisi, quas id aperiam, quae tempore tenetur accusamus amet inventore soluta eligendi, itaque magnam mollitia libero cum accusantium cupiditate? Eum velit error itaque nihil. Eaque earum laborum, saepe officia consequuntur illo aut ducimus pariatur ut enim totam beatae tenet
+    ur!</p>
+    <a href="https:/udemy.com">go to udemy</a>
+</body>
+</html>
